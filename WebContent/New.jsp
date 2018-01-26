@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>profile</title>
+<title>profile page</title>
 </head>
 <body>
 	<h1>Welcome<%=request.getAttribute("firstName") %></h1>
