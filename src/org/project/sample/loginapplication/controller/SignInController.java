@@ -28,6 +28,5 @@ public class SignInController extends HttpServlet {
 			rd.forward(req, resp);
 			//resp.sendRedirect("user_profile.html");
 		}
-		System.out.println("signin controller first");
 	}
 }
